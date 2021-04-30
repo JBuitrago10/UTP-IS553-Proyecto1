@@ -1,0 +1,4 @@
+Juan David;3448756;juandavid.buitrago1@utp.edu.co;Cuba;Jota
+Laura;3442431;lalito@gmail.com;Cerritos;Lalo
+Valentina;3106789898;vlopez@gmail.com;Centro;Val
+Pedrito Perez;123456;pedro@gmail.com;;Pepito
